@@ -17,12 +17,12 @@ Takes coordinates *x1*, *y1*, *x2* and *y2* and returns the distance between the
 ### Driver1
 Tests *calculateMpg*
 
-### Driver1
+### Driver2
 Tests *calculateAreaOfCircle*
 
-### Driver1
+### Driver3
 Tests *convertFahrenheitToCelcius*
 
-### Driver1
+### Driver4
 Tests *calculateDistanceBetweenPoints*
 
