@@ -1,7 +1,7 @@
 # Python_dailyMath
 ## This project includes:
 ### Lybrary
-Functions:/n
+Functions:</br>
 **calculateMpg**
 Takes *miles* and *gallons* as arguments and returns miles per gallon.
 
