@@ -12,7 +12,7 @@ Takes *radius* as argument and returns the area of the respective circle.
 Takes value in *Fahrenheit* as argument and returns its value in Celcius.
 
 **calculateDistanceBetweenPoints**
-Takes points *x1*, *y1*, *x2* and *y2* and returns the distance between the two points (xy1 and xy2).
+Takes coordinates *x1*, *y1*, *x2* and *y2* and returns the distance between the two points.
 
 ### Driver1
 Tests *calculateMpg*
